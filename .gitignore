@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pth
+runs/
+data/images/
+fovea_heat.png
+.DS_Store
+Thumbs.db

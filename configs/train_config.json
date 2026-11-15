@@ -1,0 +1,9 @@
+{
+  "sigma_heat": 0.02,
+  "sigma_mask": 0.06,
+  "heat_pos_weight": 200,
+  "w_mask": 0.5,
+  "w_heat": 1.0,
+  "w_vis": 0.5,
+  "w_coord": 1.0
+}
